@@ -227,6 +227,11 @@ onBeforeUnmount(() => {
       </div>
     </div>
   </section>
+  <section v-else>
+    <h3 style="text-align:center;padding:2rem;">
+      Hello, looks like you're already done 👍
+    </h3>
+  </section>
   <section
     v-if="enlargedImage || createForm"
     class="todo-modal"
