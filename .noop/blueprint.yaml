@@ -1,4 +1,4 @@
-name: Nodejs Vue Template Todo App
+name: Overly Complex Todo
 components:
   - name: TodoApi
     type: service
