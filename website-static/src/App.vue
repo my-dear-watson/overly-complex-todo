@@ -229,7 +229,7 @@ onBeforeUnmount(() => {
   </section>
   <section v-else>
     <h3 style="text-align:center;padding:2rem;">
-      Hello, looks like you've got nothing to do 😎
+      Howdy, looks like you've got nothing to do 😎
     </h3>
   </section>
   <section
